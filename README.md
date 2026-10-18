@@ -1,4 +1,4 @@
-# Little Wilds
+# Minicraft
 
 A small first-person voxel building game. It uses the browser's built-in WebGL support and Python's standard library; no packages are required.
 
@@ -40,4 +40,4 @@ The key is the mod's internal name; the value is the folder name inside `Modific
 }
 ```
 
-Each block needs a unique `Id`, a display `Name`, and a six-digit hex `Color`. `StartingCount` is optional and defaults to 12. Mods add blocks to the hotbar and provide their starting inventory. The included `Modifications/SuperMario/mod.json` is a working example.
+Each block needs a unique `Id`, a display `Name`, and a six-digit hex `Color`. `StartingCount` is optional and defaults to 12. Mods add blocks to the hotbar and provide their starting inventory.

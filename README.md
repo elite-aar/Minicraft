@@ -24,7 +24,7 @@ The local launcher reads `Modifications/manifest.json` and then reads `mod.json`
 ```json
 {
   "ModFolders": {
-    "SuperMarioModFolderName": "SuperMario"
+    "ModFolderName": "Name"
   }
 }
 ```
